@@ -1,0 +1,17 @@
+/Users/MG/Documents/SemShop/src/main/java/ru/kpfu/itis/MG/servlets/AddProduct.java
+/Users/MG/Documents/SemShop/src/main/java/ru/kpfu/itis/MG/exception/AlreadyExistException.java
+/Users/MG/Documents/SemShop/src/main/java/ru/kpfu/itis/MG/database/ProductDAO.java
+/Users/MG/Documents/SemShop/src/main/java/ru/kpfu/itis/MG/servlets/Bucket.java
+/Users/MG/Documents/SemShop/src/main/java/ru/kpfu/itis/MG/servlets/BucketRemove.java
+/Users/MG/Documents/SemShop/src/main/java/ru/kpfu/itis/MG/servlets/Login.java
+/Users/MG/Documents/SemShop/src/main/java/ru/kpfu/itis/MG/servlets/ThankYou.java
+/Users/MG/Documents/SemShop/src/main/java/ru/kpfu/itis/MG/servlets/Registration.java
+/Users/MG/Documents/SemShop/src/main/java/ru/kpfu/itis/MG/servlets/WelcomeList.java
+/Users/MG/Documents/SemShop/src/main/java/ru/kpfu/itis/MG/models/User.java
+/Users/MG/Documents/SemShop/src/main/java/ru/kpfu/itis/MG/models/Product.java
+/Users/MG/Documents/SemShop/src/main/java/ru/kpfu/itis/MG/Service/RegularTester.java
+/Users/MG/Documents/SemShop/src/main/java/ru/kpfu/itis/MG/exception/DBException.java
+/Users/MG/Documents/SemShop/src/main/java/ru/kpfu/itis/MG/database/UserDAO.java
+/Users/MG/Documents/SemShop/src/main/java/ru/kpfu/itis/MG/database/SQLDatabase.java
+/Users/MG/Documents/SemShop/src/main/java/ru/kpfu/itis/MG/Service/Encryptor.java
+/Users/MG/Documents/SemShop/src/main/java/ru/kpfu/itis/MG/servlets/AdminPage.java
